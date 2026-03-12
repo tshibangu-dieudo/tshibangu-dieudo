@@ -1,16 +1,34 @@
-## Hi there 👋
+# Bonjour 👋
 
-<!--
-**tshibangu-dieudo/tshibangu-dieudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Dieudo Tshibangu  
+Étudiant en informatique de gestion passionné par le développement web et la programmation.
 
-Here are some ideas to get you started:
+## Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- PHP
+- MySQL
+- Java
+- Python
+
+## Projets
+
+- Boutique en ligne (PHP / MySQL)
+- Application de gestion d'école (Python)
+- Application de gestion de stock (Java)
+- Portfolio personnel
+
+## Contact
+
+Email : tshibangujeanmypro@gamil.com
+GitHub : https://github.com/tshibangu-dieudo
+## Technologies
+
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![Java](https://img.shields.io/badge/Java-red)
+![Python](https://img.shields.io/badge/Python-yellow)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tshibangu-dieudo&show_icons=true)
