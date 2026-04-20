@@ -11,6 +11,7 @@ Je suis Dieudo Tshibangu
 - MySQL
 - Java
 - Python
+- Django
 
 ## Projets
 
