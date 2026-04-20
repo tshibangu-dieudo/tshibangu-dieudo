@@ -31,7 +31,7 @@ GitHub : https://github.com/tshibangu-dieudo
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![Java](https://img.shields.io/badge/Java-red)
 ![Python](https://img.shields.io/badge/Python-yellow)
-![Python](https://img.shields.io/badge/Django-yellow)
+![Python](https://img.shields.io/badge/Django-black)
 
 
 
